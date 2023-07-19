@@ -1,0 +1,25 @@
+
+.notebooks {
+    margin-top: 30px;
+    padding: 15px;
+    border: 2px solid black;
+    width: 75%;
+    align-items: center;
+    align-content: center;
+    
+  }
+
+  .container select{
+    width: 93%;
+    margin-right: 15x;
+    font-weight: bold;
+    font-size: large;
+    border: 2px full darkblue;
+    border-radius: 10px;
+}
+
+ .container select option{
+    font-weight: 100;
+    background-color: transparent;
+    border-style: none;
+  }

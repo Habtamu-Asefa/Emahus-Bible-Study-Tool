@@ -1,0 +1,12 @@
+.note{
+    background-color: white;
+    padding: 2px 5px 2px 15px;
+    margin: 10px 5px 0px 5px;
+    width: 90%;
+    border-radius: 15px;
+    transition: 0.1s, ease;
+  }
+
+.note:hover{
+  background-color: rgb(177, 209, 209);
+}

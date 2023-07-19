@@ -1,0 +1,19 @@
+
+.inner{
+    display: flex;
+    align-items: center;
+    top: 15px;
+    left: 25px;
+    
+  }
+
+.search{
+    display: flex;
+    border: 0px solid black;
+    padding: 14px 55px 14px 25px;
+    margin: 0px 5px 0px 0px;
+    border-radius: 15px;
+  
+  }
+
+ 

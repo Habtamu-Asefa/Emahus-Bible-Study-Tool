@@ -1,0 +1,17 @@
+
+.container{
+  height: 100vh;
+  padding: 40px 0px 0px 25px;
+  background-color: #D9D9D9;
+  overflow-y: auto;
+ 
+
+
+}
+
+.container ::-webkit-scrollbar{
+  width: 0px;
+}
+
+
+

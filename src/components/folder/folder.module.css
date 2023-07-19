@@ -1,0 +1,37 @@
+.addnote{
+    background-color: white;
+    width: 65%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid rgb(122, 122, 185);
+    align-items: center;
+    align-content: center;
+    padding-bottom: 10px;
+
+    
+
+  }
+
+  .addnote:hover{
+    background-color: black;
+    color: white;
+  }
+
+  .addnote p{
+    padding: 0px 0px 5px 75px;
+    font-weight: bold;
+  }
+
+.list{
+    background-color: white;
+    border-radius: 5px;
+    width: 90%;
+    height: 10%;
+    padding: 1px 1px 1px 15px;
+    margin: 5px 5px 0px 5px;
+    font-weight: bold;
+    display: flex;
+    gap: 60%;
+    align-items: center;
+
+}  

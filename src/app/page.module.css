@@ -1,0 +1,25 @@
+
+
+.container {
+  display: flex;
+  
+}
+
+.inner {
+  /* Sidebar styles */
+  flex: 1;
+}
+
+.main {
+  display: column;
+  padding: 0px;
+  height: 100vh;
+  flex: 3;
+  overflow-y: auto;
+  
+}
+
+.main::-webkit-scrollbar{
+  width: 0px;
+}
+
